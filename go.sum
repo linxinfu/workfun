@@ -1,0 +1,6 @@
+github.com/gen2brain/dlgs v0.0.0-20190708095831-3854608588f7 h1:qA8Mdjwrlv/r/aMqArqO0IMHUiy6ApdW4+8DtKr7PvA=
+github.com/gen2brain/dlgs v0.0.0-20190708095831-3854608588f7/go.mod h1:/eFcjDXaU2THSOOqLxOPETIbHETnamk8FA/hMjhg/gU=
+github.com/gopherjs/gopherjs v0.0.0-20190909024252-1852f3ae2951 h1:/VMsB5OxWbsVMq8407hoGXbn37cbGYs1k2O9MyhYJTU=
+github.com/gopherjs/gopherjs v0.0.0-20190909024252-1852f3ae2951/go.mod h1:wJfORRmW1u3UXTncJ5qlYoELFm8eSnnEO6hX4iZ3EWY=
+github.com/robfig/cron v1.2.0 h1:ZjScXvvxeQ63Dbyxy76Fj3AT3Ut0aKsyd2/tl3DTMuQ=
+github.com/robfig/cron v1.2.0/go.mod h1:JGuDeoQd7Z6yL4zQhZ3OPEVHB7fL6Ka6skscFHfmt2k=
